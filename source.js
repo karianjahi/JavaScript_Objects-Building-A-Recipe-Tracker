@@ -88,18 +88,19 @@ console.log(recipe1);
 console.log("")
 console.log("")
 console.log("")
-recipe2.totalIngredients = getTotalIngredients(recipe1.ingredients);
-recipe2.difficultyLevel = getDifficultyLevel(recipe1.cookingTime);
-recipe2.averageRating = getAverageRating(recipe1.ratings);
+recipe2.totalIngredients = getTotalIngredients(recipe2.ingredients);
+recipe2.difficultyLevel = getDifficultyLevel(recipe2.cookingTime);
+recipe2.averageRating = getAverageRating(recipe2.ratings);
 console.log(recipe2);
 console.log("")
 console.log("")
 console.log("")
-recipe3.totalIngredients = getTotalIngredients(recipe1.ingredients);
-recipe3.difficultyLevel = getDifficultyLevel(recipe1.cookingTime);
-recipe3.averageRating = getAverageRating(recipe1.ratings);
+recipe3.totalIngredients = getTotalIngredients(recipe3.ingredients);
+recipe3.difficultyLevel = getDifficultyLevel(recipe3.cookingTime);
+recipe3.averageRating = getAverageRating(recipe3.ratings);
 console.log(recipe3);
 console.log("")
 console.log("")
 console.log("")
+console.log(recipes);
 
