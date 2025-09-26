@@ -7,8 +7,6 @@ This project is all about learning how to use **objects**, **arrays**, and **fun
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 - **`source.js`** → Contains all the practice code where I:
   - Create recipe objects
   - Store them in an array
